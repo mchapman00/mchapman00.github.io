@@ -1,0 +1,24 @@
+<html>
+  <head>
+		 <style>
+    		.angrybudden {
+      		width: 200px;
+    		}
+				.twochainz {
+					width: 300px;
+				}
+  		</style>
+	</head>
+  <body>  
+		<img class= "twochainz" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHI2dRxAmr_8Cl6lNLEjQutkqRXbTzehgZBg39wVdCLeRVrDT"/> 
+	<br>	<span>It was the best of times,</span>
+<span>it was the worst of times,</span>
+<div>it was the age of wisdom,</div>
+<span>it was the age of foolishness,</span>
+<div>it was the epoch of belief,</div>
+<span>it was the epoch of incredulity,</span>
+<div>it was the season of Light, </div>	
+		<img class= "angrybudden" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IKGLkoCOa5eHjsEJGdJ8l8mky9XTJR-oTQBdy3PmYR_WXq3k"/> 
+<br> <span> </style="color: green;">Bulbasaur</span>
+</body>
+</html>
